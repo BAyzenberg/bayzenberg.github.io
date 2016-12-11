@@ -11,6 +11,7 @@ nav ul{
 nav ul li{
   display: inline-block;
   margin: 10px;
+  font-size: 30px;
 }
 header img{
   margin-left: auto;
@@ -34,4 +35,7 @@ div p{
 }
 .backarrow img {
   width: 300px;
+}
+body {
+  background-color: orange;
 }
